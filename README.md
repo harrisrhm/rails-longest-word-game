@@ -1,5 +1,7 @@
 # README
 
+Rails longest word game - Le Wagon
+
 Implement a “Longest-word game” with a cool web-interface. This challenge will let you access a web-API, and parse JSON data returned by this API.
 
 Background & Objectives: 
